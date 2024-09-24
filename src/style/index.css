@@ -1,0 +1,9 @@
+@import "./App.css";
+@import "../components/header/_header.css";
+@import "../components/tests/_tests.css";
+@import "../components/stages/_stages.css";
+@import "../components/infoPages/_infoPages.css";
+@import "../components/UI/_card.css";
+@import "../components/UI/_button.css";
+@import "../components/UI/_arrowButton.css";
+

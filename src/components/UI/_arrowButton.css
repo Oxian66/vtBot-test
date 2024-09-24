@@ -1,0 +1,27 @@
+.arrow-btn {
+  background-color: #fff;
+  width: 5rem;
+  margin: 0 1rem;
+  padding: 0.75rem;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 770px) {
+  .arrow-btn {
+    margin: 0 0.5rem;
+    padding: 0.5rem;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  .arrow-btn {
+    width: 4rem;
+    padding: 0.4rem;
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  .arrow-btn {
+    padding: 0.3rem;
+  }
+}
