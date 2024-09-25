@@ -20,7 +20,7 @@ const StagePageVAT = (props) => {
     <Fragment>
       <main>
         <h2 className="page-title">
-          {languageValue === "svenska" && "Тест вашей остроты зрения"}
+          {languageValue === "svenska" && "Проверка вашей остроты зрения"}
           {languageValue === "english" && "Test your visual acuity"}
         </h2>
         <div className="column">

@@ -111,7 +111,7 @@ const StagePageAstT = (props) => {
                   глаз.
                 </p>
                 <p>Cосредоточьтесь на центре полукруга.</p>
-                <p>
+                <p className="text">
                  Все ли линии имеют одинаковый оттенок черного, или вы
                   видите ли вы, что некоторые линии выглядят размытыми или нечеткими в одном или нескольких
                   направлениях?
@@ -134,7 +134,7 @@ const StagePageAstT = (props) => {
                   eye.
                 </p>
                 <p>Focus on the center of the semicircle.</p>
-                <p>
+                <p className="text">
                   Do all the lines appear in the same shade of black, or do you
                   see that some lines appear blurred or unclear in one or more
                   directions?

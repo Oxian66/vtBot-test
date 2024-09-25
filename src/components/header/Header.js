@@ -51,7 +51,7 @@ const Header = () => {
               resetApp();
             }}
           >
-            {language === "svenska" && "Тест зрения"}
+            {language === "svenska" && "Проверка зрения"}
             {language === "english" && "Vision test"}
           </h1>
           {language === "svenska" && (

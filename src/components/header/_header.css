@@ -7,7 +7,7 @@
   color: #000;
   padding: 0.75rem 3rem;
   margin-bottom: 2rem;
-  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.7);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.7);
 }
 
 .header-title {
@@ -27,8 +27,9 @@
 
 .nav-row {
   display: flex;
+  width: 100%;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: right;
   align-items: center;
   gap: 1rem;
 }
