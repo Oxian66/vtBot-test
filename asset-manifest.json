@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vtBot-test/static/css/main.5509b7ea.css",
+    "main.css": "/vtBot-test/static/css/main.58a5ff7b.css",
     "main.js": "/vtBot-test/static/js/main.d67ced54.js",
     "index.html": "/vtBot-test/index.html",
-    "main.5509b7ea.css.map": "/vtBot-test/static/css/main.5509b7ea.css.map",
+    "main.58a5ff7b.css.map": "/vtBot-test/static/css/main.58a5ff7b.css.map",
     "main.d67ced54.js.map": "/vtBot-test/static/js/main.d67ced54.js.map"
   },
   "entrypoints": [
-    "static/css/main.5509b7ea.css",
+    "static/css/main.58a5ff7b.css",
     "static/js/main.d67ced54.js"
   ]
 }
