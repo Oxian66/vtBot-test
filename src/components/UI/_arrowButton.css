@@ -22,6 +22,7 @@
 
 @media only screen and (max-width: 390px) {
   .arrow-btn {
-    padding: 0.3rem;
+    padding: 0.1rem;
+    width: 3rem;
   }
 }

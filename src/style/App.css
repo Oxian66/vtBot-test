@@ -86,7 +86,7 @@ main {
   }
   .column,
   .row {
-    gap: 3rem;
+    gap: 1.5rem;
     padding: 1rem !important;
   }
 }
@@ -100,6 +100,6 @@ main {
   .column,
   .row {
     padding: 1rem !important;
-    gap: 2rem;
+    gap: 1rem;
   }
 }
