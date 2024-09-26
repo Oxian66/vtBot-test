@@ -127,7 +127,7 @@ const VisualAcuityTest = (props) => {
                       srcSet={
                         process.env.PUBLIC_URL + "/images/eye-hidden-48.png"
                       }
-                      media="(max-width: 770px)"
+                      media="(max-width: 600px)"
                     />
                     <img
                       src={process.env.PUBLIC_URL + "/images/eye-hidden-64.png"}
@@ -154,7 +154,7 @@ const VisualAcuityTest = (props) => {
                       srcSet={
                         process.env.PUBLIC_URL + "/images/eye-open-48.png"
                       }
-                      media="(max-width: 770px)"
+                      media="(max-width: 600px)"
                     />
                     <img
                       src={process.env.PUBLIC_URL + "/images/eye-open-64.png"}

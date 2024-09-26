@@ -6,6 +6,15 @@
 .astigmatism-img {
   margin: 1rem;
 }
+@media only screen and (max-width: 600px) {
+  .astigmatism-img {
+    width: 80%;
+  }
+  .e-img {
+    width: 14px;
+    height: 14px;
+  }
+}
 
 @media only screen and (max-width: 430px) {
   .astigmatism-img {

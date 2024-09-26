@@ -72,10 +72,15 @@ main {
   }
   .column {
     width: 100%;
+    gap: 0;
   }
   .row-col-layout {
     flex-direction: column;
     gap: 2rem;
+  }
+  .row {
+    padding: 1rem !important;
+    gap: 1rem;
   }
 }
 
