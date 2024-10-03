@@ -65,10 +65,19 @@ main {
 }
 
 @media only screen and (max-width: 770px) {
+
+  main {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+  }
   .page-title {
     font-size: 1.4rem;
-    padding: 1rem;
+    padding: 0;
     text-align: left !important;
+    margin-top: 1rem;
   }
   .column {
     width: 100%;
@@ -81,6 +90,10 @@ main {
   .row {
     padding: 1rem !important;
     gap: 1rem;
+  }
+  body {
+    padding: 0;
+    overflow: hidden;
   }
 }
 
